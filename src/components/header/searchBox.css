@@ -1,0 +1,24 @@
+.search_box_container {
+  position: relative;
+}
+
+.suggestions {
+  position: absolute;
+  width: 100%;
+  background: var(--white-color);
+  list-style: none;
+  border: 1px solid var(--border-color);
+}
+.suggestions li {
+  display: flex;
+  align-items: center;
+  padding: 5px;
+  gap: 5px;
+  border-bottom: 1px solid var(--border-color);
+}
+.suggestions li img {
+  width: 30px;
+}
+.suggestions li span {
+  font-size: 14px;
+}
