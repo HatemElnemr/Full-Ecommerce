@@ -35,7 +35,7 @@ function HeroSlider() {
                   Shop Now
                 </Link>
               </div>
-              <img src="/src/img/banner_Hero1.jpg" alt="Slider Hero 1" />
+              <img src="/img/banner_Hero1.jpg" alt="Slider Hero 1" />
             </SwiperSlide>
             <SwiperSlide>
               <div className="content">
@@ -48,7 +48,7 @@ function HeroSlider() {
                   Shop Now
                 </Link>
               </div>
-              <img src="/src/img/banner_Hero2.jpg" alt="Slider Hero 2" />
+              <img src="/img/banner_Hero2.jpg" alt="Slider Hero 2" />
             </SwiperSlide>
             <SwiperSlide>
               <div className="content">
@@ -61,7 +61,7 @@ function HeroSlider() {
                   Shop Now
                 </Link>
               </div>
-              <img src="/src/img/banner_Hero3.jpg" alt="Slider Hero 3" />
+              <img src="/img/banner_Hero3.jpg" alt="Slider Hero 3" />
             </SwiperSlide>
           </Swiper>
         </div>
